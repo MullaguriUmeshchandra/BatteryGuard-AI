@@ -102,6 +102,15 @@ Open your browser to: `http://localhost:5173`
 
 ---
 
+## 🌐 Cloud Deployment (Render)
+
+BatteryGuard AI is pre-configured with a Render Blueprint (`render.yaml`) and Docker setup for zero-friction cloud deployment.
+
+- **1-Click Blueprint**: Link your repository on [dashboard.render.com](https://dashboard.render.com) and deploy both Backend and Frontend automatically via `render.yaml`.
+- **Detailed Step-by-Step Instructions**: See [DEPLOYMENT_RENDER.md](file:///batteryguard-ai/docs/DEPLOYMENT_RENDER.md) for full configuration details and options.
+
+---
+
 ## 🔑 Default Credentials for Live Evaluation
 
 | Role | Email | Password |
